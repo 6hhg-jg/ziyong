@@ -3,13 +3,24 @@
   "sites": [
       {
       "key": "柠檬",
-      "name": "🍉柠檬┃蓝光",
+      "name": "🍉二柠檬┃免费🈲商用",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
       "jar": "http://183.131.83.37:40782/mob/lib/柠檬.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
+          {
+            "name": "杜北★蓝光",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "jar":"https://d.kstore.dev/download/7923/%E7%BA%BF%E8%B7%AFjar/js/java/custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+        },
   {
       "key": "公众号",
       "name": "🍉移动┃4K",
@@ -68,26 +79,45 @@
       "playerType": 2,
       "ext": "http://chaoqianys.top:91/api.php/app/"
     },
+
     {
-      "key": "闪影",
-      "name": "🍓闪影|2K",
+            "key": "橘皮",
+            "name": "橘皮★蓝光",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 1,
+            "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+        },
+        {"key":"如意","name":"如意★蓝光","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","categories":["国产剧","动作片","喜剧片","爱情片","冒险片","科幻片","恐怖片","剧情片","战争片","动漫片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","韩国剧","短剧","国产动漫","日韩动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"扁担","name":"扁担★蓝光","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod","categories":["大陆剧","动作片","喜剧片","爱情片","冒险片","科幻片","恐怖片","剧情片","战争片","动漫片","港澳剧","欧美剧","记录片","台湾剧","海外剧","日剧","韩剧","爽文短剧","年代穿越","脑洞悬疑","女频恋爱","古装仙侠","国产动漫","日韩动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"暴风","name":"暴风★蓝光","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","categories":["国产剧","动作片","喜剧片","爱情片","冒险片","科幻片","恐怖片","剧情片","战争片","动漫片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","韩国剧","短剧大全","穿越年代","重生民国","都市脑洞","现代言情","女恋总裁","古装仙侠","国产动漫","日韩动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"天涯","name":"天涯★蓝光","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","categories":["国产剧","动作片","喜剧片","爱情片","冒险片","科幻片","恐怖片","剧情片","战争片","动漫片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","韩国剧","短剧","年代穿越","现代都市","成长逆袭","女频恋爱","古装仙侠","国产动漫","日韩动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+ {
+      "name": "⭐瓜子|秒播",
+      "key": "Guazi",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_GuaziAmns",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sites": "",
+        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+      },
+      "jar": "http://49.233.164.48:40829/down/zvN91RehrfBM.jar"
+    },
+  
+    {
+      "key" : "11",
+      "name" : "4K线路",
+      "type" : 3,
+        "playerType": 1,
+      "api" : "http://49.233.164.48:40829/down/UG13R5YfifLK.py",
+      "changeable" : 1
     },
 
- { "key": "csp_Gz360", "name": "🔥瓜子┃影视", "type": 3, "timeout": 12, "searchable": 1, "quickSearch": 0, "api": "csp_Gz360", "jar":"http://149.88.74.234:21375/down/1XQBvEQ3ULm1.php" },
-    {
-      "key": "骚火影视",
-      "name": "🍓骚火|2K",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us"
-    },
     {
       "key": "金牌影视",
       "name": "🔦金牌|2K",
@@ -105,6 +135,37 @@
       "filterable": 1,
       "ext": "http://183.131.83.37:40782/mob/lib/农民影视.json"
     },
+         {
+            "key": "剧吧蓝光",
+            "name": "剧吧★蓝光",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/7923/%E7%BA%BF%E8%B7%AFjar/js/java/%E5%89%A7%E5%90%A7.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+
+        {
+            "name": "夏天★蓝光",
+            "key": "NewGrV2",
+            "type": 3,
+            "jar":"https://d.kstore.dev/download/7923/%E7%BA%BF%E8%B7%AFjar/js/java/custom_spider.jar",
+            "api": "csp_NewGrV2Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+        },
+        {
+            "key": "奇迹影视",
+            "name": "迹4 K",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/7923/%E7%BA%BF%E8%B7%AFjar/js/java/AppGet.js",
+            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/",
+            "quickSearch": 1
+        },
     {
       "key": "1905",
       "name": "🔦老电影｜2K",
@@ -157,25 +218,8 @@
         "version": "120"
       }
     },
-    {
-      "key": "热播影视",
-      "name": "☄️热播｜HD2K",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "云播影视",
-      "name": "☄️云播｜HD2K",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv05.com"
-    },
+
+
     {
       "key": "河马短剧",
       "name": "🎬短剧-A|2K",
@@ -218,22 +262,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "番薯",
-      "name": "🍼番薯丨动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://new.app.bytegooty.com",
-        "site": "",
-        "dataKey": "N4yj7l7xKxHF4*gz",
-        "dataIv": "N4yj7l7xKxHF4*gz",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
+
     {
       "key": "米饭",
       "name": "🍼米饭｜动漫",
