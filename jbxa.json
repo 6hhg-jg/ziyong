@@ -321,20 +321,7 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
-            "key": "wuduanju",
-            "name": "五雷┃短剧",
-            "playerType": "1",
-            "type": 3,
-            "group": "3",
-            "api": "http://43.249.195.13:10213/lib/AppYsV2.js",
-            "ext": {
-                "host": "http://djzy.bdyy.top/api.php/provide/vod/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
+       
         {
             "key": "wangyi",
             "name": "️沧海┃短剧️",
@@ -395,127 +382,13 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "xiongmao",
-            "name": "斗虎┃直播",
-            "type": 3,
-            "api": "http://43.249.195.13:10213/pyy/wangluo.py",
-            "searchable": 1,
-            "group": "9",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "hongguo",
-            "name": "沧海┃音乐",
-            "type": 3,
-            "group": "5",
-            "api": "http://43.249.195.13:10213/pyy/kuwo.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "HI",
-            "name": "沧海┃HI歌",
-            "type": 3,
-            "group": "5",
-            "api": "http://43.249.195.13:10213/pyy/HI.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "DJ",
-            "name": "沧海┃DJ歌",
-            "type": 3,
-            "group": "5",
-            "api": "http://43.249.195.13:10213/pyy/DJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kugou",
-            "name": "沧海┃音城",
-            "type": 3,
-            "group": "5",
-            "api": "csp_Kugou",
-            "jar": "http://43.249.195.13:10213/pyy/kugou.jar",
-            "playerType": 2,
-            "ext": {
-                "classes": [
-                    {
-                        "type_name": "酷狗",
-                        "type_id": "kugou"
-                    }
-                ]
-            }
-        },
-        {
-            "key": "huau",
-            "name": "沧海┃听书",
-            "type": 3,
-            "group": "8",
-            "api": "http://43.249.195.13:10213/pyy/tingshu.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "戏曲多多",
-            "name": "戏曲┃多多",
-            "type": 3,
-            "group": "7",
-            "api": "csp_AppLY",
-            "jar": "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "wudusha",
-            "name": "五雷┃少儿",
-            "playerType": "1",
-            "type": 3,
-            "group": "4",
-            "api": "http://43.249.195.13:10213/lib/AppYsV2.js",
-            "ext": {
-                "host": "http://yszy.bdyy.top/api.php/provide/vod/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
-        {
-            "key": "csp_XYQHiker_兔小贝",
-            "name": "少儿┃专线",
-            "type": 3,
-            "group": "4",
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json",
-            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"
-        },
-        {
-            "key": "csp_XYQHiker_兔小贝2",
-            "name": "少儿┃转线",
-            "type": 3,
-            "group": "4",
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json",
-            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"
-        },
+     
+    
+      
+       
+      
+      
+     
         {
             "key": "教育",
             "name": "沧海丨教育",
