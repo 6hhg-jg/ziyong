@@ -206,72 +206,10 @@
             "searchable": 1,
             "category": "综合"
         },
-        {
-            "key": "canghai",
-            "name": "NB┃蓝光",
-            "playerType": "1",
-            "type": 3,
-            "group": "2",
-            "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-            "ext": {
-                "host": "https://ld.69mzf.cn/api.php/app/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
-        {
-            "key": "canghai2",
-            "name": "NC┃蓝光",
-            "playerType": "1",
-            "type": 3,
-            "group": "2",
-            "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-            "ext": {
-                "host": "https://jp.69mzf.cn/api.php/app/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
-        {
-            "key": "canghai3",
-            "name": "ND┃蓝光",
-            "playerType": "1",
-            "type": 3,
-            "group": "2",
-            "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-            "ext": {
-                "host": "https://lz.69mzf.cn/api.php/app/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
-        {
-            "key": "canghai4",
-            "name": "AE┃蓝光",
-            "playerType": "1",
-            "type": 3,
-            "group": "2",
-            "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-            "ext": {
-                "host": "https://tt.69mini.com/api.php/app/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
-        {
-            "key": "4kvm",
-            "name": "vm丨蓝光",
-            "type": 2,
-            "api": "http://203.135.100.107:8866/asdasd/py/4kvm.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1
-        },
+      
+       
+      
+ 
         {
             "key": "2lan2",
             "name": "趣看┃蓝光",
