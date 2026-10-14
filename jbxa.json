@@ -41,15 +41,55 @@
         }
     ],
     "sites": [
-      
-     {
-            "key": "瓜子影视",
-            "name": "瓜子｜影视",
-            "group": "2",
+               {
+            "key": "Rebo",
+            "name": "🍓┆热播┆APP",
             "type": 3,
-            "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "wencai",
+            "name": "✏️┆文才┆影视",
+            "type": 3,
+            "api": "csp_WenCai",
+            "searchable": 1,
+            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+        },
+          {
+            "key": "Wwys",
+            "name": "🍙┆糯米┆影视",
+            "type": 3,
+            "api": "csp_Wwys",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://vip.wwgz.cn:5200"
+        },
+                {
+            "key": "Duboku",
+            "name": "🎯┆独播┆影视",
+            "type": 3,
+            "api": "csp_Duboku",
+            "searchable": 1,
+            "filterable": 1,
             "changeable": 1
         },
+     
+        {
+            "key": "zhiqiu",
+            "name": "☘️┆听风┆知秋",
+            "type": 3,
+            "api": "csp_zhiqiu",
+            "searchable": 1,
+            "ext": "ATuDzsbtXNA1mpnRWIpcUB8B2+hY3LMP/3Z1xXurADboE8cAKUOjUN6TXimsApauJg/X7yLotzgNXhCsjAn5wuQ="
+        },
+   
        {
             "name": "杜北★蓝光",
             "key": "Dubk",
