@@ -131,20 +131,7 @@
                 ]
             }
         },
-        {
-            "key": "ceshi",
-            "name": "趣看┃4K",
-            "playerType": "1",
-            "type": 3,
-            "group": "1",
-            "api": "http://43.249.195.13:10213/lib/AppYsV2.js",
-            "ext": {
-                "host": "http://38.76.215.93:8856/api.php/provide/vod/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
+    
         {
             "key": "360资源",
             "name": "三六┃资源",
@@ -210,20 +197,7 @@
        
       
  
-        {
-            "key": "2lan2",
-            "name": "趣看┃蓝光",
-            "playerType": "1",
-            "type": 3,
-            "group": "2",
-            "api": "http://43.249.195.13:10213/lib/AppYsV2.js",
-            "ext": {
-                "host": "http://38.76.215.93:2258/api.php/provide/vod/",
-                "*": [
-                    "这里写入json地址"
-                ]
-            }
-        },
+
         {
             "key": "H222I",
             "name": "💖咕噜┃4K💖",
