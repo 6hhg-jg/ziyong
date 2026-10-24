@@ -4,7 +4,7 @@
         {
             "name": "📺 平台直播",
             "type": 0,
-            "url": "http://43.249.195.13:10213/lll11llll.txt",
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
             "epg": "http://tvapius.chenfengtv.com/api/diyp.php?ch={name}&date={date}",
             "logo": "http://203.135.100.107:8018/store/images/{name}.png",
             "playerType": 1,
@@ -53,6 +53,76 @@
                 "url": "http://v.rbotv.cn"
             }
         },
+        {
+"key": "AppV7 | 大师兄",
+"name": "💥师兄┃秒播💥",
+"type": 3,
+"api": "csp_WexAppV7Guard",
+"searchable": 1,
+"changeable": 0,
+"ext": {
+"config": "AppV7Dsx",
+"proxyImg": false
+},
+"timeout": 120
+},
+           {
+      "key" : "WexAiGuaZi",
+      "name" : "💥瓜子┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAiGuaZiGuard",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
+         {
+      "key" : "AppV7 | 追剧达人",
+      "name" : "💥追剧┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Zjdr",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+            {
+      "key" : "WexAiWenCai",
+      "name" : "💥文才┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAiWenCaiGuard",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
+        {
+      "key" : "AppV7 | 零零七影视",
+      "name" : "💥零七┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Llq",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+         {
+      "key" : "AppV7 | 蒙太奇",
+      "name" : "💥太奇┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Mtq",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
         {
             "key": "wencai",
             "name": "✏️┆文才┆影视",
