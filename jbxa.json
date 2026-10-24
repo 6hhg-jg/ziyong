@@ -41,18 +41,18 @@
         }
     ],
     "sites": [
-               {
-            "key": "Rebo",
-            "name": "🍓┆免费仅个人使用┆禁止商用请勿付费",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+   
+        {
+      "key" : "Douban",
+      "name" : "🍓┆免费仅个人使用┆禁止商用请勿付费",
+      "type" : 3,
+      "api" : "csp_NewDouBanGuard",
+      "indexs" : 1,
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "filterable" : 0,
+      "ext" : "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.tx"
+    },
         {
 "key": "AppV7 | 大师兄",
 "name": "💥师兄┃秒播💥",
@@ -123,6 +123,89 @@
       },
       "timeout" : 120
     },
+         {
+      "key" : "WexFengYe4K",
+      "name" : "💥小枫┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexFengYe4KGuard",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
+    {
+      "key" : "賤賤",
+      "name" : "💥贱片┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAiJianPianGuard",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
+        {
+      "key" : "AppV7 | 粉猪追剧",
+      "name" : "💥粉猪┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Fz",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+    {
+      "key" : "AppV7 | 咸鱼",
+      "name" : "💥咸鱼┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Xy",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+    {
+      "key" : "AppV7 | 追剧达人",
+      "name" : "💥追剧┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Zjdr",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+    {
+      "key" : "AppV7 | 小柚子",
+      "name" : "💥柚子┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Xyz",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+    {
+      "key" : "AppV7 | 小柠檬",
+      "name" : "💥柠檬┃秒播💥",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Xnm",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
         {
             "key": "wencai",
             "name": "✏️┆文才┆影视",
@@ -141,6 +224,15 @@
             "changeable": 1,
             "ext": "https://vip.wwgz.cn:5200"
         },
+            {
+      "key" : "WexAiBoBo",
+      "name" : "🎇伯伯┃秒播🎇",
+      "type" : 3,
+      "api" : "csp_WexAiBoBoGuard",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
                 {
             "key": "Duboku",
             "name": "🎯┆独播┆影视",
