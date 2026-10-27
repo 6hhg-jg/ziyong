@@ -1,5 +1,8 @@
 {
     "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/6hhg-jg/ziyong/refs/heads/main/1070.jpg;md5;3c264c629e02273b9ad61e769218c508",
+    "logo" : "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+    "wallpaper" : "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "danmaku" : "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "lives": [
         {
             "name": "📺 平台直播",
