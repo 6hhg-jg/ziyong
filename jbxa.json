@@ -53,7 +53,22 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+    {
+            "key": "Douban",
+            "name": "🌕️┆片单┆精选",
+            "type": 3,
+            "api": "csp_PianDan",
+            "searchable": 1,
+            "indexs": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "home": {
+                    "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+                    "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
+                }
+            }
+        },
  
         {
 "key": "AppV7 | 大师兄",
