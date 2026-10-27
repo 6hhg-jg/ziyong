@@ -53,7 +53,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+{
+      "key" : "首页",
+      "name" : "「不为繁华易匠心，只愿时光留印记」",
+      "type" : 3,
+      "api" : "csp_Douban",
+      "categories" : [
+        "热播电影",
+        "热播电视剧",
+        "经典电影",
+        "经典电视剧",
+        "热门动漫"
+      ],
+      "searchable" : 0
+    },
         {
 "key": "AppV7 | 大师兄",
 "name": "💥师兄┃秒播💥",
