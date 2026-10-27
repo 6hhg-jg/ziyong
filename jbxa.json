@@ -53,24 +53,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {
-            "key": "Douban",
-            "name": "🌕️┆片单┆精选",
-            "type": 3,       
-            "api": "csp_PianDan",
-            "searchable": 1,
-            "indexs": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "ext": {
-                "home": {
-                    "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
-                    "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
-                }
-            }
-        },
- 
+{
+      "key": "drpy_js_豆瓣",
+      "name": "🌱┃豆瓣┃推荐",
+      "type": 3,
+      "api":"http://ck.lli.vin/js/drpy2.min.js",
+      "ext": "http://ck.lli.vin/js/douban.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
         {
 "key": "AppV7 | 大师兄",
 "name": "💥师兄┃秒播💥",
