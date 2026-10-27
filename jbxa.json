@@ -61,7 +61,7 @@
             "searchable": 1,
             "indexs": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "ext": {
                 "home": {
                     "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
