@@ -57,6 +57,7 @@
             "key": "Douban",
             "name": "🌕️┆片单┆精选",
             "type": 3,
+            "group": "2",
             "api": "csp_PianDan",
             "searchable": 1,
             "indexs": 0,
