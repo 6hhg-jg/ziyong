@@ -190,7 +190,7 @@
            "jar":"https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "ext": "https://vip.wwgz.cn:5200"
         },
     {
@@ -221,7 +221,7 @@
             "api": "csp_Wwys",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "ext": "https://vip.wwgz.cn:5200"
         },
             {
@@ -251,7 +251,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "ext": {
                 "site": "https://kanju.ai",
                 "playname": "ly"
