@@ -182,19 +182,16 @@
       },
       "timeout" : 120
     },
-    {
-      "key" : "AppV7 | 小柚子",
-      "name" : "💥柚子┃秒播💥",
-      "type" : 3,
-      "api" : "csp_WexAppV7Guard",
-      "searchable" : 1,
-      "changeable" : 0,
-      "ext" : {
-        "config" : "AppV7Xyz",
-        "proxyImg" : false
-      },
-      "timeout" : 120
-    },
+       {
+            "key": "Wwys",
+            "name": "🍙┆糯米┆影视",
+            "type": 3,
+            "api": "csp_Wwys",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://vip.wwgz.cn:5200"
+        },
     {
       "key" : "AppV7 | 小柠檬",
       "name" : "💥柠檬┃秒播💥",
@@ -244,7 +241,20 @@
             "filterable": 1,
             "changeable": 1
         },
-     
+      {
+            "key": "KanJu",
+            "name": "🎬┆流映┆4K",
+            "type": 3,
+            "api": "csp_KanJu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://kanju.ai",
+                "playname": "ly"
+            }
+        },
         {
             "key": "zhiqiu",
             "name": "☘️┆听风┆知秋",
