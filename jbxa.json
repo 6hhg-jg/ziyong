@@ -42,31 +42,18 @@
     ],
     "sites": [
    
-    {
-            "key": "huashu",
+
+     {
+            "key": "Wwys",
             "name": "🍓┆免费仅个人使用┆禁止商用请勿付费",
             "type": 3,
-            "group": "2",
-            "api": "http://43.249.195.13:10213/pyy/huashu.py",
+            "api": "csp_Wwys",
+           "jar":"https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
             "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://vip.wwgz.cn:5200"
         },
-{
-      "key" : "首页",
-      "name" : "「不为繁华易匠心，只愿时光留印记」",
-      "type" : 3,
-      "api" : "csp_Douban",
-      "categories" : [
-        "热播电影",
-        "热播电视剧",
-        "经典电影",
-        "经典电视剧",
-        "热门动漫"
-      ],
-      "searchable" : 1
-    },
         {
 "key": "AppV7 | 大师兄",
 "name": "💥师兄┃秒播💥",
@@ -194,17 +181,7 @@
       },
       "timeout" : 120
     },
-       {
-            "key": "Wwys",
-            "name": "🍙┆糯米┆影视",
-            "type": 3,
-            "api": "csp_Wwys",
-           "jar":"https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://vip.wwgz.cn:5200"
-        },
+  
     {
       "key" : "AppV7 | 小柠檬",
       "name" : "💥柠檬┃秒播💥",
